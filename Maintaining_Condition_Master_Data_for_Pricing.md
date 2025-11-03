@@ -84,10 +84,4 @@ If Customer B buys Product X → Price = ₹950
 * Helps SAP find the correct price, discount, freight, and tax
 * Uses predefined condition types like **PR00**, **K007**
 * Works automatically during sales document creation
-* Can be changed manually (if allowed)
-
----
-
-### 🏷️ Hashtags
-
-#SAP #SAPSD #SAPS4HANA #Pricing #ConditionMasterData #SAPLearning #SAPTraining #ERP #SalesAndDistribution #LearnSAP #SAPCommunity #BusinessProcess
+* Can be changed manually (if allowed).
